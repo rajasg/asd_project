@@ -1,4 +1,4 @@
-# Network Analysis and Classification of ADHD using fMRIs
+# Network Analysis and Classification of ASD using fMRIs
 by Rajas Gupta and Vijay Sharma
 
 ## About this Project
